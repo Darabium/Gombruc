@@ -5,8 +5,6 @@ This vulnerability is related to CVE-2025-0401, which affects all Linux systems.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *HINT To use Gombruc on Linux, follow these steps:
 
-Step 1. #chmod +x Gombruc.sh
-
-Step 2. #./Gombruc.sh
+Step 1. ```#chmod +x Gombruc.sh```
 
 Step 3. Enjoy elevated "root" access levels
